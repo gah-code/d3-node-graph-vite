@@ -1,4 +1,3 @@
-import React from 'react';
 import NodeGraph from './NodeGraph'; // Import the D3 component
 
 function App() {
